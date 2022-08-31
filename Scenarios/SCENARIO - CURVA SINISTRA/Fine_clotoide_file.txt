@@ -1,0 +1,8 @@
+ RISULTATI - punto finale della clotoide 
+
+Tao_cent =  1.414711e+01 
+S_star =  6.666625e+02 
+XF_star =  6.666625e+02 
+YF_star =  6.666625e+02 
+XM_star =  6.666625e+02 
+YM_star =  6.666625e+02 

@@ -1,0 +1,4 @@
+ Errori accelerazione - angolo di sterzata 
+
+MSE_acc  =  9.641390e-03 
+Best_fit_acc =  8.978812e+01 

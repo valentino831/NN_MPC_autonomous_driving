@@ -1,0 +1,7 @@
+Tutti gli scenari sono su rettilineo
+
+HK --> aggancio 
+LK --> lane keeping
+OV --> sorpasso e rientro 
+
+numero --> velocità in km/h della macchina davanti ( se presente )

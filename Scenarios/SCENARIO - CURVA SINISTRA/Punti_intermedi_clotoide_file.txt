@@ -1,0 +1,10 @@
+PUNTI INTERMEDI DELLA CLOTOIDE  
+
+Tao_cent_tmp =  
+2.501000e-03 	1.414711e+01 	
+ S_star_tmp =  
+8.571429e-03 	6.666625e-01 	
+ XF_star_tmp =  
+ 4 	 3.095762e+02 	
+ YF_star_tmp =  
+0 	2.296439e+01 	

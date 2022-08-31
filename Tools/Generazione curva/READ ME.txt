@@ -1,0 +1,4 @@
+Per trovare lo scenario completo ( rettilineo + curva + rettilineo + curva + rettilineo ):
+
+1) usare "Progetto curva" e salvare un nuovo scanario alla fine del codice
+2) usare "Scenario completo design" passando lo scenario salvato al punto 1 e creandone un altro
